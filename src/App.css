@@ -1,0 +1,32 @@
+.App-view {
+  text-align: center;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  flex-direction: column;
+  margin: 50px;
+}
+.input-view {
+  width: 100%;
+}
+
+.CodeMirror-line span {
+  display: flex;
+}
+.react-codemirror2 > .CodeMirror:first-child {
+  display: none;
+}
+.CodeMirror-scroll {
+  border: 1px solid gray;
+  overflow: hidden !important;
+  height: 20px;
+  margin-right: 50px;
+}
+.react-codemirror2 {
+  overflow: hidden !important;
+}
+.CodeMirror-vscrollbar {
+  display: none !important;
+}
