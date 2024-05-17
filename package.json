@@ -1,7 +1,7 @@
 {
   "name": "pry-demo",
   "version": "0.1.0",
-  "homepage": "./",
+  "homepage": "https://pry-demo-1oqbq3w8w-priyankas-projects-497191a2.vercel.app/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.4",
