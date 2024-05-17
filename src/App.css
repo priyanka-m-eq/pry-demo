@@ -15,9 +15,6 @@
 .CodeMirror-line span {
   display: flex;
 }
-.react-codemirror2 > .CodeMirror:first-child {
-  display: none;
-}
 .CodeMirror-scroll {
   border: 1px solid gray;
   overflow: hidden !important;
